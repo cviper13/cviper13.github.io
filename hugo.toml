@@ -26,7 +26,7 @@ palette = "base16-grayscale-dark" # light version "base16-grayscale-light" is al
 title = "cviper13"
 description = "A digital den for projects, notes, experiments, and rants from a high school dev obsessed with planes, scooters, and systems that break in interesting ways."
 logo = "🐧"
-#logo-image = "static/apple-touch-icon.png" # Uncomment to use a logo image
+#logo-image = "static/apple-touch-icon.png" # uncomment to use a logo image
 
 # Social links
 [[params.socialLinks]]
